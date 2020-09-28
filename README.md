@@ -23,6 +23,9 @@
 - 15 Design Patterns
 
 
+ [The Object-Oriented Thought_Process ](https://www.amazon.com/Object-Oriented-Thought-Process-Developers-Library/dp/0135181968/ref=sr_1_1?dchild=1&keywords=Object-Oriented+Thought+Process&qid=1601285606&s=books&sr=1-1)
+ 
+
 ##### An introduction to object-oriented concepts for developers looking to master modern application practices Object-oriented programming (OOP) is the foundation of modern programming languages, including C++, Java, C#, Visual Basic .NET, Ruby, and Objective-C. Objects also form the basis for many web technologies such as JavaScript, Python, and PHP.
 
 
@@ -30,9 +33,6 @@
 
 
 
-
- [The Object-Oriented Thought_Process ](https://www.amazon.com/Object-Oriented-Thought-Process-Developers-Library/dp/0135181968/ref=sr_1_1?dchild=1&keywords=Object-Oriented+Thought+Process&qid=1601285606&s=books&sr=1-1)
- 
  
  
  

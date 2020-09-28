@@ -1,0 +1,13 @@
+E:\Home\The_Object-Oriented(Thought_Process)\Chpater1(Introduction)\TestShape\obj\Debug\netcoreapp3.1\TestShape.csprojAssemblyReference.cache
+E:\Home\The_Object-Oriented(Thought_Process)\Chpater1(Introduction)\TestShape\obj\Debug\netcoreapp3.1\TestShape.AssemblyInfoInputs.cache
+E:\Home\The_Object-Oriented(Thought_Process)\Chpater1(Introduction)\TestShape\obj\Debug\netcoreapp3.1\TestShape.AssemblyInfo.cs
+E:\Home\The_Object-Oriented(Thought_Process)\Chpater1(Introduction)\TestShape\obj\Debug\netcoreapp3.1\TestShape.csproj.CoreCompileInputs.cache
+E:\Home\The_Object-Oriented(Thought_Process)\Chpater1(Introduction)\TestShape\bin\Debug\netcoreapp3.1\TestShape.exe
+E:\Home\The_Object-Oriented(Thought_Process)\Chpater1(Introduction)\TestShape\bin\Debug\netcoreapp3.1\TestShape.deps.json
+E:\Home\The_Object-Oriented(Thought_Process)\Chpater1(Introduction)\TestShape\bin\Debug\netcoreapp3.1\TestShape.runtimeconfig.json
+E:\Home\The_Object-Oriented(Thought_Process)\Chpater1(Introduction)\TestShape\bin\Debug\netcoreapp3.1\TestShape.runtimeconfig.dev.json
+E:\Home\The_Object-Oriented(Thought_Process)\Chpater1(Introduction)\TestShape\bin\Debug\netcoreapp3.1\TestShape.dll
+E:\Home\The_Object-Oriented(Thought_Process)\Chpater1(Introduction)\TestShape\bin\Debug\netcoreapp3.1\TestShape.pdb
+E:\Home\The_Object-Oriented(Thought_Process)\Chpater1(Introduction)\TestShape\obj\Debug\netcoreapp3.1\TestShape.dll
+E:\Home\The_Object-Oriented(Thought_Process)\Chpater1(Introduction)\TestShape\obj\Debug\netcoreapp3.1\TestShape.pdb
+E:\Home\The_Object-Oriented(Thought_Process)\Chpater1(Introduction)\TestShape\obj\Debug\netcoreapp3.1\TestShape.genruntimeconfig.cache

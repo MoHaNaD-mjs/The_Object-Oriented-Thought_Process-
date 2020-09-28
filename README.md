@@ -1,6 +1,9 @@
 # The_Object-Oriented-Thought_Process
 ## Example Code Used in The Book
- 
+
+ ![The Book](https://github.com/MoHaNaD-mjs/The_Object-Oriented-Thought_Process-/blob/master/Chpater1(Introduction)/the-object-oriented-thought-process-original-imafbp6sudrejheu.jpeg)
+
+
 ### Table of Contents
 
 - 1 Introduction to Object-Oriented Concepts
@@ -19,7 +22,6 @@
 - 14 Objects and Client/Server Applications
 - 15 Design Patterns
 
-![The Book](https://github.com/MoHaNaD-mjs/The_Object-Oriented-Thought_Process-/blob/master/Chpater1(Introduction)/the-object-oriented-thought-process-original-imafbp6sudrejheu.jpeg)
 
 
 
